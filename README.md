@@ -28,4 +28,4 @@ Feel free to reach out!
 📧 **Email**: [leonardof108@gmail.com](mailto\:leonardof108@gmail.com)\
 🔗 **Linkedin**: [https://www.linkedin.com/in/leonardof108](https://www.linkedin.com/in/leonardof108)\
 💻 **GitHub**: [https://github.com/leonardof108](https://github.com/leonardof108)\
-📂 **Porfolio**: [https\://github.com/leonardof108/Portfolio](https://github.com/leonardof108)
+📂 **Porfolio**: [https\://github.com/leonardof108/Portfolio](https://github.com/leonardof108/Portfolio)
