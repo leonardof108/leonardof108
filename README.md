@@ -18,7 +18,7 @@ I specialize in:\
 • Statistical Analysis
 
 🎯 **My Goals**\
-After finishing my degree in **System Analysis and Development**, I'm currently pursuing a degree in **Statistics** to deepen my understanding of data and analytics. I aim to grow in the data field, with aspirations to explore machine learning, cloud technologies, and advanced data modeling.
+After finishing my degree in **System Analysis and Development**, I'm currently deepening my understanding of data and analytics. I aim to grow in the data field, with aspirations to explore machine learning, cloud technologies, and advanced data modeling.
 
 🤝 **Let’s Connect**\
 Known for being focused and detail-oriented, I thrive in solving complex challenges and collaborating with teams. I’m eager to engage with professionals in the data community, share knowledge, and contribute to impactful projects.
