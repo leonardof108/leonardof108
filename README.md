@@ -1,3 +1,5 @@
+![Leonardo Ferreira(1)](https://github.com/user-attachments/assets/74bd65a8-2f1f-4cf0-8996-7de0d54e7735)
+
 🌟 **About Me**\
 With a foundation in industrial electronics and retail, I’ve transitioned into the data field to pursue my passion for extracting insights, solving problems, and driving informed decision-making.
 
