@@ -31,3 +31,5 @@ Feel free to reach out!
 🔗 **Linkedin**: [https://www.linkedin.com/in/leonardof108](https://www.linkedin.com/in/leonardof108)\
 💻 **GitHub**: [https://github.com/leonardof108](https://github.com/leonardof108)\
 📂 **Porfolio**: [https\://github.com/leonardof108/Portfolio](https://github.com/leonardof108/Portfolio)
+
+[![My Skills](https://skillicons.dev/icons?i=py,r,bash,mysql,postgres,aws,gcp)](https://skillicons.dev)
