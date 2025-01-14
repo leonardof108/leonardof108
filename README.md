@@ -8,6 +8,7 @@ I specialize in:\
 • **Data Analysis**: Leveraging tools like Python, SQL, Excel, and Power BI to clean, analyze, and visualize data.\
 • **ETL and Data Pipelines**: Ensuring data is transformed and loaded efficiently for actionable insights.\
 • **Statistics and Machine Learning**: Applying statistical models and exploring predictive analytics to uncover patterns and trends.
+• **Web Development**: Experienced with front-end and back-end web development, with a focus on building dynamic and responsive web applications and RESTful APIs.
 
 ☁ **Tools & Skills**\
 • Python (Pandas, NumPy, Matplotlib, Seaborn)\
@@ -18,6 +19,7 @@ I specialize in:\
 • Data Visualization & Reporting\
 • ETL Processes\
 • Statistical Analysis
+• Web Development (HTML, CSS, JavaScript, Bootstrap, Node.js, Express.js, RESTful APIs)
 
 🎯 **My Goals**\
 After finishing my degree in **System Analysis and Development**, I'm currently deepening my understanding of data and analytics. I aim to grow in the data field, with aspirations to explore machine learning, cloud technologies, and advanced data modeling.
@@ -32,4 +34,4 @@ Feel free to reach out!
 💻 **GitHub**: [https://github.com/leonardof108](https://github.com/leonardof108)\
 📂 **Porfolio**: [https\://github.com/leonardof108/Portfolio](https://github.com/leonardof108/Portfolio)
 
-[![My Skills](https://skillicons.dev/icons?i=py,r,bash,mysql,postgres,aws,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,bash,mysql,postgres,aws,gcp)](https://github.com/leonardof108)
