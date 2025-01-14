@@ -18,7 +18,7 @@ I specialize in:\
 • Cloud Platforms (AWS, Google Cloud)\
 • Data Visualization & Reporting\
 • ETL Processes\
-• Statistical Analysis
+• Statistical Analysis\
 • Web Development (HTML, CSS, JavaScript, Bootstrap, Node.js, Express.js, RESTful APIs)
 
 🎯 **My Goals**\
