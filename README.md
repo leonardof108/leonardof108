@@ -1,10 +1,13 @@
-![Leonardo Ferreira(1)](https://github.com/user-attachments/assets/74bd65a8-2f1f-4cf0-8996-7de0d54e7735)
+![Leonardo Ferreira(2)](https://github.com/user-attachments/assets/0472a5b8-49f6-4f64-8da4-671cedc2d38d)
 
 🌟 **About Me**\
+
 With a foundation in industrial electronics and retail, I’ve transitioned into the data field to pursue my passion for extracting insights, solving problems, and driving informed decision-making.
 
 📊 **What I Do**\
 I specialize in:\
+• **Full-Stack Web Development**: Crafting responsive UIs and efficient back-end systems with HTML, CSS and JavaScript (Node, Express, React, Next).\
+• **API Development**: Building RESTful APIs for seamless application communication.\
 • **Data Analysis**: Leveraging tools like Python, SQL, Excel, and Power BI to clean, analyze, and visualize data.\
 • **ETL and Data Pipelines**: Ensuring data is transformed and loaded efficiently for actionable insights.\
 • **Statistics and Machine Learning**: Applying statistical models and exploring predictive analytics to uncover patterns and trends.
@@ -13,16 +16,17 @@ I specialize in:\
 ☁ **Tools & Skills**\
 • Python (Pandas, NumPy, Matplotlib, Seaborn)\
 • SQL (PostgreSQL, MySQL)\
+• Front-end: HTML, CSS, JavaScript, Bootstrap, React, Next\
+• Back-end: Node.js, Express.js, RESTful APIs\
+• Cloud Platforms (AWS, Google Cloud)\
 • Excel (Advanced functions, Pivot Tables, Macros)\
 • Power BI (Dashboards, DAX)\
-• Cloud Platforms (AWS, Google Cloud)\
 • Data Visualization & Reporting\
 • ETL Processes\
 • Statistical Analysis\
-• Web Development (HTML, CSS, JavaScript, Bootstrap, Node.js, Express.js, RESTful APIs)
 
 🎯 **My Goals**\
-After finishing my degree in **System Analysis and Development**, I'm currently deepening my understanding of data and analytics. I aim to grow in the data field, with aspirations to explore machine learning, cloud technologies, and advanced data modeling.
+After finishing my degree in **System Analysis and Development**, I'm currently deepening my understanding of **Web Development** and **Data Science**, with aspirations to explore **machine learning**, **cloud technologies**, and **advanced data modeling**.
 
 🤝 **Let’s Connect**\
 Known for being focused and detail-oriented, I thrive in solving complex challenges and collaborating with teams. I’m eager to engage with professionals in the data community, share knowledge, and contribute to impactful projects.
@@ -34,4 +38,4 @@ Feel free to reach out!
 💻 **GitHub**: [https://github.com/leonardof108](https://github.com/leonardof108)\
 📂 **Porfolio**: [https\://github.com/leonardof108/Portfolio](https://github.com/leonardof108/Portfolio)
 
-[![My Skills](https://skillicons.dev/icons?i=py,r,bash,mysql,postgres,aws,gcp)](https://github.com/leonardof108)
+[![My Skills](https://skillicons.dev/icons?i=py,js,nodejs,express,react,nextjs,mysql,postgres,aws,gcp)](https://github.com/leonardof108)
