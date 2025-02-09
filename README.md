@@ -25,10 +25,14 @@ Currently, I’m focused on honing my full-stack expertise and building real-wor
 ## 🤝 **Let’s Connect**
 I thrive in tackling complex challenges, optimizing performance, and collaborating with teams to build impactful products. If you're into cutting-edge web development, cloud, security, data analysis, design or game dev, feel free to connect!
 
+---
+
 📧 **Email**: leonardof108@gmail.com\
 🔗 **LinkedIn**: linkedin.com/in/leonardof108\
 💻 **GitHub**: github.com/leonardof108\
 📂 **Portfolio**: github.com/leonardof108/Portfolio\
+
+---
 
 #WebDevelopment #FullStackDeveloper #JavaScript #NodeJS #ReactJS #NextJS #TypeScript #RESTAPI #SQL #PostgreSQL #MongoDB #AWS #CloudComputing #DevOps #Docker #Kubernetes #Terraform #Ansible #GitHubActions #CyberSecurity #Testing #Jest #Cypress #CI_CD #Microservices #APIDevelopment #BackendEngineering #SoftwareDevelopment #FrontendDevelopment #Agile #Scrum #Kanban #BrazilTech #LatAmDevelopers
 
