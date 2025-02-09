@@ -13,7 +13,7 @@ Beyond web development, I have a strong personal interest in ux/ui, data analysi
 - **Cloud & DevOps**: AWS, Docker, Terraform/Ansible, GitHub Actions, Nginx.
 - **Testing**: Jest, Cypress, Playwright, k6, ESLint.
 - **Security**: OWASP, JWT, OAuth, Rate Limiting, SQL Injection Prevention.
-- **WebSockets**: Socket.io.
+- **WebSockets**: Socket.io, SSE.
 - **Message Broker**: RabbitMQ/Kafka.
 ### **Other Interests**
 - **Data & Analytics**: Python (Pandas, Matplotlib, NumPy), SQL.
