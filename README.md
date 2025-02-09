@@ -10,7 +10,7 @@ Beyond web development, I have a strong personal interest in ux/ui, data analysi
 - **Frontend**: React/Next.js, Tailwind, Sass.
 - **Backend**: Node.js, Express.js/NestJS, REST.
 - **Databases**: PostgreSQL, MongoDB, Prisma/Drizzle.
-- **Cloud & DevOps**: AWS, Docker, Terraform/Ansible, GitHub Actions, Nginx.
+- **Cloud & DevOps**: AWS, Docker, Terraform/Ansible, GitHub Actions, Nginx, Bash/Shell.
 - **Testing**: Jest, Cypress, Playwright, k6, ESLint.
 - **Security**: OWASP, JWT, OAuth, Rate Limiting, SQL Injection Prevention.
 - **WebSockets**: Socket.io, SSE.
