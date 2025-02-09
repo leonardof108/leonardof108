@@ -1,41 +1,35 @@
-![Leonardo Ferreira(2)](https://github.com/user-attachments/assets/0472a5b8-49f6-4f64-8da4-671cedc2d38d)
+![Leonardo Ferreira(3)](https://github.com/user-attachments/assets/7ccf6ac3-4b4b-47c5-a430-418726065bf9)
 
-🌟 **About Me**\
+# 🌟 **About Me**
+With a background in industrial electronics and retail, I transitioned into full-stack web development to build scalable, high-performance applications. My core expertise lies in JavaScript-based web technologies, covering frontend, backend, cloud, DevOps, and security.
 
-With a foundation in industrial electronics and retail, I’ve transitioned into the data field to pursue my passion for extracting insights, solving problems, and driving informed decision-making.
+Beyond web development, I have a strong personal interest in ux/ui, data analysis and indie game development, which I explore in my free time through side projects.
 
-📊 **What I Do**\
-I specialize in:\
-• **Full-Stack Web Development**: Crafting responsive UIs and efficient back-end systems with HTML, CSS and JavaScript (Node, Express, React, Next).\
-• **API Development**: Building RESTful APIs for seamless application communication.\
-• **Data Analysis**: Leveraging tools like Python, SQL, Excel, and Power BI to clean, analyze, and visualize data.\
-• **ETL and Data Pipelines**: Ensuring data is transformed and loaded efficiently for actionable insights.\
-• **Statistics and Machine Learning**: Applying statistical models and exploring predictive analytics to uncover patterns and trends.
-• **Web Development**: Experienced with front-end and back-end web development, with a focus on building dynamic and responsive web applications and RESTful APIs.
+## 🛠 **What I Do**
+Full-Stack Web Development
+• **Frontend**: React/Next.js, Tailwind, Sass.
+• **Backend**: Node.js, Express.js/NestJS, REST.
+• **Databases**: PostgreSQL, MongoDB, Prisma/Drizzle.
+• **Cloud & DevOps**: AWS, Docker, Terraform/Ansible, GitHub Actions, Nginx.
+• **Testing**: Jest, Cypress, Playwright, k6, ESLint.
+• **Security**: OWASP, JWT, OAuth, Rate Limiting, SQL Injection Prevention.
+• **WebSockets**: Socket.io.
+• **Message Broker**: RabbitMQ/Kafka.
+**Other Interests**
+• **Data & Analytics**: Python (Pandas, Matplotlib, NumPy), SQL.
+• **Game Development**: Prototyping with GameMaker Studio, MakeCode Arcade, Ren'Py.
 
-☁ **Tools & Skills**\
-• Python (Pandas, NumPy, Matplotlib, Seaborn)\
-• SQL (PostgreSQL, MySQL)\
-• Front-end: HTML, CSS, JavaScript, Bootstrap, React, Next\
-• Back-end: Node.js, Express.js, RESTful APIs\
-• Cloud Platforms (AWS, Google Cloud)\
-• Excel (Advanced functions, Pivot Tables, Macros)\
-• Power BI (Dashboards, DAX)\
-• Data Visualization & Reporting\
-• ETL Processes\
-• Statistical Analysis\
+## 🎯 **My Goals**
+Currently, I’m focused on honing my full-stack expertise and building real-world, production-ready applications that leverage modern web technologies, cloud computing, and security best practices. While my professional focus is web development, I also explore data-driven applications and game development as personal projects.
 
-🎯 **My Goals**\
-After finishing my degree in **System Analysis and Development**, I'm currently deepening my understanding of **Web Development** and **Data Science**, with aspirations to explore **machine learning**, **cloud technologies**, and **advanced data modeling**.
+## 🤝 **Let’s Connect**
+I thrive in tackling complex challenges, optimizing performance, and collaborating with teams to build impactful products. If you're into cutting-edge web development, cloud, security, data analysis, design or game dev, feel free to connect!
 
-🤝 **Let’s Connect**\
-Known for being focused and detail-oriented, I thrive in solving complex challenges and collaborating with teams. I’m eager to engage with professionals in the data community, share knowledge, and contribute to impactful projects.
+📧 **Email**: leonardof108@gmail.com
+🔗 **LinkedIn**: linkedin.com/in/leonardof108
+💻 **GitHub**: github.com/leonardof108
+📂 **Portfolio**: github.com/leonardof108/Portfolio
 
-Feel free to reach out!
+#WebDevelopment #FullStackDeveloper #JavaScript #NodeJS #ReactJS #NextJS #TypeScript #RESTAPI #SQL #PostgreSQL #MongoDB #AWS #CloudComputing #DevOps #Docker #Kubernetes #Terraform #Ansible #GitHubActions #CyberSecurity #Testing #Jest #Cypress #CI_CD #Microservices #APIDevelopment #BackendEngineering #SoftwareDevelopment #FrontendDevelopment #Agile #Scrum #Kanban #BrazilTech #LatAmDevelopers
 
-📧 **Email**: [leonardof108@gmail.com](mailto\:leonardof108@gmail.com)\
-🔗 **Linkedin**: [https://www.linkedin.com/in/leonardof108](https://www.linkedin.com/in/leonardof108)\
-💻 **GitHub**: [https://github.com/leonardof108](https://github.com/leonardof108)\
-📂 **Porfolio**: [https\://github.com/leonardof108/Portfolio](https://github.com/leonardof108/Portfolio)
-
-[![My Skills](https://skillicons.dev/icons?i=py,js,nodejs,express,react,nextjs,mysql,postgres,aws,gcp)](https://github.com/leonardof108)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,jest,cypress,postgres,mongodb,aws,docker)](https://github.com/leonardof108)
