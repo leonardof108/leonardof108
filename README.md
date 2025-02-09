@@ -5,8 +5,6 @@ With a background in industrial electronics and retail, I transitioned into full
 
 Beyond web development, I have a strong personal interest in ux/ui, data analysis and indie game development, which I explore in my free time through side projects.
 
----
-
 ## 🛠 **What I Do**
 Full-Stack Web Development
 • **Frontend**: React/Next.js, Tailwind, Sass.\
@@ -21,17 +19,11 @@ Full-Stack Web Development
 • **Data & Analytics**: Python (Pandas, Matplotlib, NumPy), SQL.\
 • **Game Development**: Prototyping with GameMaker Studio, MakeCode Arcade, Ren'Py.\
 
----
-
 ## 🎯 **My Goals**
 Currently, I’m focused on honing my full-stack expertise and building real-world, production-ready applications that leverage modern web technologies, cloud computing, and security best practices. While my professional focus is web development, I also explore data-driven applications and game development as personal projects.
 
----
-
 ## 🤝 **Let’s Connect**
-I thrive in tackling complex challenges, optimizing performance, and collaborating with teams to build impactful products. If you're into cutting-edge web development, cloud, security, data analysis, design or game dev, feel free to connect!
-
----
+I thrive in tackling complex challenges, optimizing performance, and collaborating with teams to build impactful products. If you're into cutting-edge web development, cloud, security, data analysis, design or game dev, feel free to connect!\
 
 📧 **Email**: leonardof108@gmail.com\
 🔗 **LinkedIn**: linkedin.com/in/leonardof108\
