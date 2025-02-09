@@ -6,7 +6,7 @@ With a background in industrial electronics and retail, I transitioned into full
 Beyond web development, I have a strong personal interest in ux/ui, data analysis and indie game development, which I explore in my free time through side projects.
 
 ## 🛠 **What I Do**
-Full-Stack Web Development
+### Full-Stack Web Development
 • **Frontend**: React/Next.js, Tailwind, Sass.\
 • **Backend**: Node.js, Express.js/NestJS, REST.\
 • **Databases**: PostgreSQL, MongoDB, Prisma/Drizzle.\
@@ -15,7 +15,7 @@ Full-Stack Web Development
 • **Security**: OWASP, JWT, OAuth, Rate Limiting, SQL Injection Prevention.\
 • **WebSockets**: Socket.io.\
 • **Message Broker**: RabbitMQ/Kafka.\
-**Other Interests**
+### **Other Interests**
 • **Data & Analytics**: Python (Pandas, Matplotlib, NumPy), SQL.\
 • **Game Development**: Prototyping with GameMaker Studio, MakeCode Arcade, Ren'Py.\
 
