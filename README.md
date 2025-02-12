@@ -20,7 +20,7 @@ Se você também curte desenvolvimento web, tecnologia ou , entre em contato!
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,jest,cypress,postgres,mongodb,aws,docker)](https://github.com/leonardof108)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres)](https://github.com/leonardof108)
 
 ---
 
