@@ -5,13 +5,11 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou me aprofundando 
 
 Atualmente, estou aprimorando minhas habilidades no front-end com JavaScript, React e Next.js, enquanto exploro o back-end com Node.js e Express. Tenho alguma experiência com SQL, Java e PHP.
 
-Além do desenvolvimento web, também me interesso por UI/UX, análise de dados e desenvolvimento de jogos indie, que exploro por meio de projetos pessoais.
-
 ## 🎯 Meus Objetivos
-Meu objetivo é me tornar um desenvolvedor full-stack completo, dominando tecnologias de backend, computação em nuvem, testes, segurança e DevOps. Ainda tenho muito a aprender, mas estou comprometido em evoluir através de projetos práticos e aprendizado contínuo.
+Meu objetivo é me tornar um desenvolvedor full-stack completo, dominando tecnologias de backend, computação em nuvem, design, testes, segurança e DevOps. Ainda tenho muito a aprender, mas estou comprometido em evoluir através de projetos práticos e aprendizado contínuo.
 
 ## 🤝 Vamos Conectar
-Se você também curte desenvolvimento web, tecnologia ou , entre em contato!
+Se você também curte desenvolvimento web e tecnologia entre em contato!
 
 - 📧 **Email**: [leonardof108@gmail.com](mailto:leonardof108@gmail.com)
 - 🔗 **LinkedIn**: [linkedin.com/in/leonardof108](https://www.linkedin.com/in/leonardof108/)
