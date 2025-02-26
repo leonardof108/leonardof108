@@ -19,8 +19,8 @@ I’m working towards becoming a **backend + DevOps engineer**, focusing on high
 
 If you're into **software engineering, DevOps, or cloud**, feel free to reach out!
 
-### 📧 Email: leonardof108@gmail.com
-### 💻 GitHub: github.com/leonardof108
+### 📧 Email: [leonardof108@gmail.com](mailto:leonardof108@gmail.com)
+### 💻 GitHub: [github.com/leonardof108](https://github.com/leonardof108)
 
 ---
 
