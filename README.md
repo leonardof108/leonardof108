@@ -5,9 +5,9 @@
 I'm a **System Analysis and Development** student building a strong foundation in **backend development, DevOps, and software engineering**. My focus is on writing **clean, scalable, and reliable systems** while continuously expanding my skills.
 
 Right now, I’m:
-# ✅ Developing backend systems with Java and Python.
-# ✅ Exploring DevOps & Cloud – learning CI/CD, Docker, and AWS.
-# ✅ Studying software engineering principles – clean code, SOLID, testing, and agile methodologies.
+### ✅ Developing backend systems with Java and Python.
+### ✅ Exploring DevOps & Cloud – learning CI/CD, Docker, and AWS.
+### ✅ Studying software engineering principles – clean code, SOLID, testing, and agile methodologies.
 
 Beyond coding, I’m fascinated by **infrastructure as code, automation, and system reliability** and working on projects to put these concepts into practice.
 
@@ -19,8 +19,8 @@ I’m working towards becoming a **backend + DevOps engineer**, focusing on high
 
 If you're into **software engineering, DevOps, or cloud**, feel free to reach out!
 
-# 📧 Email: leonardof108@gmail.com
-# 💻 GitHub: github.com/leonardof108
+### 📧 Email: leonardof108@gmail.com
+### 💻 GitHub: github.com/leonardof108
 
 ---
 
