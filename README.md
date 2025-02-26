@@ -1,26 +1,31 @@
-![Leonardo Ferreira(3)](https://github.com/user-attachments/assets/7ccf6ac3-4b4b-47c5-a430-418726065bf9)
+![Leonardo Ferreira(4)](https://github.com/user-attachments/assets/89a216fa-0446-4483-89f0-f97a4febce34)
 
-## 🌟 Sobre Mim
-Sou estudante de Análise e Desenvolvimento de Sistemas e estou me aprofundando em JavaScript e desenvolvimento web full-stack. Meu foco é construir aplicações enquanto expando continuamente meu conhecimento.
+## 🌟 About Me
 
-Atualmente, estou aprimorando minhas habilidades no front-end com JavaScript, React e Next.js, enquanto exploro o back-end com Node.js e Express. Tenho alguma experiência com SQL, Java e PHP.
+I'm a **System Analysis and Development** student building a strong foundation in **backend development, DevOps, and software engineering**. My focus is on writing **clean, scalable, and reliable systems** while continuously expanding my skills.
 
-## 🎯 Meus Objetivos
-Meu objetivo é me tornar um desenvolvedor full-stack completo, dominando tecnologias de backend, computação em nuvem, design, testes, segurança e DevOps. Ainda tenho muito a aprender, mas estou comprometido em evoluir através de projetos práticos e aprendizado contínuo.
+Right now, I’m:
+# ✅ Developing backend systems with Java and Python.
+# ✅ Exploring DevOps & Cloud – learning CI/CD, Docker, and AWS.
+# ✅ Studying software engineering principles – clean code, SOLID, testing, and agile methodologies.
 
-## 🤝 Vamos Conectar
-Se você também curte desenvolvimento web e tecnologia entre em contato!
+Beyond coding, I’m fascinated by **infrastructure as code, automation, and system reliability** and working on projects to put these concepts into practice.
 
-- 📧 **Email**: [leonardof108@gmail.com](mailto:leonardof108@gmail.com)
-- 🔗 **LinkedIn**: [linkedin.com/in/leonardof108](https://www.linkedin.com/in/leonardof108/)
-- 💻 **GitHub**: [github.com/leonardof108](https://github.com/leonardof108)
-- 📂 **Portfolio**: [github.com/leonardof108/Portfolio](https://github.com/leonardof108/Portfolio)
+## 🎯 My Goals
+
+I’m working towards becoming a **backend + DevOps engineer**, focusing on high-quality **software delivery, system reliability, and cloud automation**. My learning is hands-on, driven by real-world projects and continuous improvement.
+
+## 🤝 Let’s Connect
+
+If you're into **software engineering, DevOps, or cloud**, feel free to reach out!
+
+# 📧 Email: leonardof108@gmail.com
+# 💻 GitHub: github.com/leonardof108
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres)](https://github.com/leonardof108)
+[![My Skills](https://skillicons.dev/icons?i=java,py)](https://github.com/leonardof108)
 
 ---
 
-#JavaScript #React #NextJS #NodeJS #FullStackDevelopment #WebDevelopment #SQL #AprendizadoPrático
-
+#BackendDevelopment #DevOps #Java #Python #Cloud #CI_CD #SoftwareEngineering #Observability #InfrastructureAsCode #Automation #SRE #OpenToWork
