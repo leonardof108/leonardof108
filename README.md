@@ -1,31 +1,43 @@
-![Leonardo Ferreira(4)](https://github.com/user-attachments/assets/89a216fa-0446-4483-89f0-f97a4febce34)
+![Leonardo Ferreira](https://github.com/user-attachments/assets/89a216fa-0446-4483-89f0-f97a4febce34)
 
-## 🌟 About Me
+# 🚀 Leonardo Ferreira | Backend & DevOps Enthusiast  
 
-I'm a **System Analysis and Development** student building a strong foundation in **backend development, DevOps, and software engineering**. My focus is on writing **clean, scalable, and reliable systems** while continuously expanding my skills.
-
-Right now, I’m:
-### ✅ Developing backend systems with Java and Python.
-### ✅ Exploring DevOps & Cloud – learning CI/CD, Docker, and AWS.
-### ✅ Studying software engineering principles – clean code, SOLID, testing, and agile methodologies.
-
-Beyond coding, I’m fascinated by **infrastructure as code, automation, and system reliability** and working on projects to put these concepts into practice.
-
-## 🎯 My Goals
-
-I’m working towards becoming a **backend + DevOps engineer**, focusing on high-quality **software delivery, system reliability, and cloud automation**. My learning is hands-on, driven by real-world projects and continuous improvement.
-
-## 🤝 Let’s Connect
-
-If you're into **software engineering, DevOps, or cloud**, feel free to reach out!
-
-### 📧 Email: [leonardof108@gmail.com](mailto:leonardof108@gmail.com)
-### 💻 GitHub: [github.com/leonardof108](https://github.com/leonardof108)
+I'm a **System Analysis and Development** student passionate about **backend development, DevOps, and software engineering**. My focus is on building **clean, scalable, and reliable systems** while constantly learning and improving.  
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=java,py)](https://github.com/leonardof108)
+## 🌟 What I’m Working On  
+
+✅ **Backend Development** – Java & Spring Boot  
+✅ **DevOps & Cloud** – CI/CD, Docker, AWS, Python  
+✅ **Software Engineering** – Clean Code, SOLID, Testing, Agile  
+
+🔹 Fascinated by **Infrastructure as Code, Automation, and System Reliability**  
+🔹 Hands-on learner, always building **real-world projects** to put knowledge into practice  
 
 ---
 
-#BackendDevelopment #DevOps #Java #Python #Cloud #CI_CD #SoftwareEngineering #Observability #InfrastructureAsCode #Automation #SRE #OpenToWork
+## 🎯 My Goals  
+
+📌 **Become a Backend + DevOps Engineer**  
+📌 Focus on **Software Delivery, System Reliability, and Cloud Automation**  
+📌 Master best practices in **scalable architecture, testing, and observability**  
+
+---
+
+## 📬 Let’s Connect  
+
+💌 **Email:** [leonardof108@gmail.com](mailto:leonardof108@gmail.com)  
+💻 **GitHub:** [github.com/leonardof108](https://github.com/leonardof108)  
+
+---
+
+### 🛠️ Tech Stack  
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,docker,aws,git,linux)](https://github.com/leonardof108)  
+
+---
+
+### 🔖 Hashtags  
+
+#BackendDevelopment #DevOps #Java #Python #Cloud #CI_CD #SoftwareEngineering #Automation #SRE #InfrastructureAsCode #OpenToWork  
