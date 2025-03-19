@@ -2,24 +2,24 @@
 
 # 🚀 Leonardo Ferreira | Backend & DevOps  
 
-I'm a **System Analysis and Development** student passionate about **backend development, DevOps, and software engineering**. My focus is on building **clean, scalable, and reliable systems** while constantly learning and improving.  
+I'm a  student passionate about **backend development, DevOps, and software engineering**. My focus is on building **clean, scalable, and reliable systems** while constantly learning and improving.
+I'm a **System Analysis and Development** student building a strong foundation in **Java backend development** and **software engineering**. My focus is on writing **clean, scalable, and reliable systems** while continuously **expanding my skills**.
 
 ---
 
 ## 🌟 What I’m Working On  
 
-✅ **Backend Development** – Java & Spring Boot  
-✅ **DevOps & Cloud** – CI/CD, Docker, AWS, Python  
-✅ **Software Engineering** – Clean Code, SOLID, Testing, Agile  
+✅ **Developing backend systems** with Java (8+) and Spring.
+✅ **Studying software engineering principles** – clean code, SOLID, testing, and agile methodologies.
+✅ **Exploring DevOps & Cloud** – learning CI/CD, Docker, Kubernetes and AWS.
 
-🔹 Fascinated by **Infrastructure as Code, Automation, and System Reliability**  
-🔹 Hands-on learner, always building **real-world projects** to put knowledge into practice  
+Beyond coding, I’m fascinated by infrastructure as code, automation, and system reliability and working on projects to put these concepts into practice. 
 
 ---
 
 ## 🎯 My Goals  
 
-📌 **Become a Backend + DevOps Engineer**  
+📌 **Become a Software Engineer, focusing on backend development**  
 📌 Focus on **Software Delivery, System Reliability, and Cloud Automation**  
 📌 Master best practices in **scalable architecture, testing, and observability**  
 
