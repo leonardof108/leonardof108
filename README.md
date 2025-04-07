@@ -1,8 +1,7 @@
 ![Leonardo Ferreira](https://github.com/user-attachments/assets/89a216fa-0446-4483-89f0-f97a4febce34)
 
-# 🚀 Leonardo Ferreira | Backend & DevOps  
+# 🚀 Leonardo Ferreira | Backend Developer
 
-I'm a  student passionate about **backend development, DevOps, and software engineering**. My focus is on building **clean, scalable, and reliable systems** while constantly learning and improving.
 I'm a **System Analysis and Development** student building a strong foundation in **Java backend development** and **software engineering**. My focus is on writing **clean, scalable, and reliable systems** while continuously **expanding my skills**.
 
 ---
