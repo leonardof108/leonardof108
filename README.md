@@ -8,8 +8,8 @@ I'm a **System Analysis and Development** student building a strong foundation i
 
 ## 🌟 What I’m Working On  
 
-✅ **Developing backend systems** with Java (8+) and Spring.
-✅ **Studying software engineering principles** – clean code, SOLID, testing, and agile methodologies.
+✅ **Developing backend systems** with Java (8+) and Spring.\
+✅ **Studying software engineering principles** – clean code, SOLID, testing, and agile methodologies.\
 ✅ **Exploring DevOps & Cloud** – learning CI/CD, Docker, Kubernetes and AWS.
 
 Beyond coding, I’m fascinated by infrastructure as code, automation, and system reliability and working on projects to put these concepts into practice. 
