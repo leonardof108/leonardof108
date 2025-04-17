@@ -2,7 +2,7 @@
 
 # 🚀 Leonardo Ferreira | Backend Developer
 
-I'm a **System Analysis and Development** student building a strong foundation in **Java backend development** and **software engineering**. My focus is on writing **clean, scalable, and reliable systems** while continuously **expanding my skills**.
+I'm a **System Analysis and Development** student building a strong foundation in **backend development** and **software engineering**. My focus is on writing **clean, scalable, and reliable systems** while continuously **expanding my skills**.
 
 ---
 
