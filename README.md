@@ -21,9 +21,9 @@ Fluent English – ready for international squads and flexible/on-call hours.
 
 | Project | Tech Stack | Status/Focus | Link |
 | :--- | :--- | :--- | :--- |
-| **Stock Management API** | Java, Spring Boot, PostgreSQL, JWT | (WIP) | [StockMgmtAPI](https://github.com/leonardof108/StockMgmtAPI) |
-| **Full-Stack Task App** (Task Tracker) | Node.js, Express, Next.js (Frontend), CI/CD | Planned (Start soon) | [TaskTracker](https://github.com/leonardof108/TaskTracker) |
-| **Transaction/Statistics API** (Itaú Challenge) | Java, Spring Boot (Focus on performance/memory) | Planned (Start soon) | [TransactionStatsAPI](https://github.com/leonardof108/TransactionStatsAPI) |
+| **Stock Management API** | Java, Spring Boot, PostgreSQL, JWT | Planned | [StockMgmtAPI](https://github.com/leonardof108/StockMgmtAPI) |
+| **Full-Stack Task App** (Task Tracker) | Node.js, Express, Next.js (Frontend), CI/CD | Planned | [TaskTracker](https://github.com/leonardof108/TaskTracker) |
+| **Transaction/Statistics API** (Itaú Challenge) | Java, Spring Boot (Focus on performance/memory) | WIP | [TransactionStatsAPI](https://github.com/leonardof108/TransactionStatsAPI) |
 
 ---
 
