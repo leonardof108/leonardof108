@@ -3,7 +3,7 @@
 Hi, I'm Leonardo Ferreira 👋
 
 Junior Backend Developer | Java 8+ • Spring Boot • REST APIs • PostgreSQL  
-Currently studying System Analysis nd Development (Technology degree), and System Development (Technician degree) at SENAI Mauá – Porto Alegre.
+Currently studying System Analysis and Development (Technology degree), and System Development (Technician degree) at SENAI Mauá – Porto Alegre.
 
 I'm working the night shift at Bistek managing inventory flow alone — real-world experience with critical processes, legacy systems and automation under pressure.
 
