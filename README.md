@@ -3,7 +3,7 @@
 Hi, I'm Leonardo Ferreira 👋
 
 Junior Backend Developer | Java 8+ • Spring Boot • REST APIs • PostgreSQL  
-Currently studying System Development (Technician degree) at SENAI Mauá – Porto Alegre.
+Currently studying System Analysis nd Development (Technology degree), and System Development (Technician degree) at SENAI Mauá – Porto Alegre.
 
 I'm working the night shift at Bistek managing inventory flow alone — real-world experience with critical processes, legacy systems and automation under pressure.
 
@@ -21,9 +21,10 @@ Fluent English – ready for international squads and flexible/on-call hours.
 
 | Project | Tech Stack | Status/Focus | Link |
 | :--- | :--- | :--- | :--- |
-| **Stock Management API** | Java, Spring Boot, PostgreSQL, JWT | Planned | [StockMgmtAPI](https://github.com/leonardof108/StockMgmtAPI) |
-| **Full-Stack Task App** (Task Tracker) | Node.js, Express, Next.js (Frontend), CI/CD | Planned | [TaskTracker](https://github.com/leonardof108/TaskTracker) |
 | **Transaction/Statistics API** (Itaú Challenge) | Java, Spring Boot (Focus on performance/memory) | Completed | [TransactionStatsAPI](https://github.com/leonardof108/TransactionStatsAPI) |
+| **Stock Management API** | Java, Spring Boot, PostgreSQL, JWT | Planned | [StockMgmtAPI](https://github.com/leonardof108/StockMgmtAPI) |
+| **AgilStore Inventory System** | Javascript | Completed | [gerenciamento-de-produtos](https://github.com/leonardof108/gerenciamento-de-produtos) |
+| **Full-Stack Task App** (Task Tracker) | Node.js, Express, Next.js (Frontend), CI/CD | Planned | [TaskTracker](https://github.com/leonardof108/TaskTracker) |
 
 ---
 
