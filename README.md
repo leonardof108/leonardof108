@@ -45,4 +45,4 @@ I am a Backend and IT Operations professional with a unique background in Indust
 - **LinkedIn:** [linkedin.com/in/leonardof108](https://www.linkedin.com/in/leonardof108/)
 - **Email:** leonardof108@gmail.com
 
-*📫 Open to Junior/Internship roles in Backend Development (Python/Node.js), SysAdmin/DB Admin and Data in Porto Alegre or Remote.*
+*📫 Open to Junior/Internship roles in Backend Development (Python/Node.js), SysAdmin and Automation in Porto Alegre or Remote.*
