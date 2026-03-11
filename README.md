@@ -2,7 +2,11 @@
 
 ### Hi, I'm Leonardo Ferreira 👋
 
-I am a Backend and IT Operations professional with a unique background in Industrial Electronics (PLC/LADDER) and Retail Operations (ERP). My core focus is building reliable backend logic and automating repetitive infrastructure tasks. I leverage Python, Linux environments, and SQL to build data pipelines, REST APIs, and system automations.
+Automation & Infrastructure Professional with a solid foundation in the physical world (Industrial Electronics) and in critical business operations (high-demand Retail ERP systems). My specialty is transforming operational bottlenecks and manual routines into efficient automated systems.
+
+Focused on building automation scripts, structuring data extraction and cleaning pipelines (ETL), developing resilient APIs, and orchestrating integrations between legacy databases and Artificial Intelligence workflows.
+
+Currently studying Systems Analysis and Development (Technologist and Technical degree) at SENAI. My daily practice is focused on systems architecture, data manipulation, and infrastructure stability.
 
 ---
 
@@ -11,8 +15,7 @@ I am a Backend and IT Operations professional with a unique background in Indust
 **Backend:**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)
 
 **Ops:**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -24,6 +27,7 @@ I am a Backend and IT Operations professional with a unique background in Indust
 **DB & Cloud:**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
 
 **Data:**
@@ -32,14 +36,9 @@ I am a Backend and IT Operations professional with a unique background in Indust
 ![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)
 
 **QA:**
-![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)
 ![Pytest](https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000)
 
 ---
-
-### 🔭 Currently Focusing On:
-- **Backend & Data:** Building Python scripts for data extraction/manipulation and API development (Flask).
-- **IT Operations:** Linux Administration, system monitoring, and automating local environments.
 
 ### 🔍 Where to find me
 - **LinkedIn:** [linkedin.com/in/leonardof108](https://www.linkedin.com/in/leonardof108/)
