@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Copy of Leonardo Ferreira" src="https://github.com/user-attachments/assets/cd74147e-d035-490b-ac2a-a840e5289e23" />
+<img width="1584" height="396" alt="Leonardo Ferreira" src="https://github.com/user-attachments/assets/387f878b-067d-476d-bbfc-07ad0595d5e0" />
 
 ### Hi, I'm Leonardo Ferreira 👋
 
