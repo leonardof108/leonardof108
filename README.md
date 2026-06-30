@@ -2,41 +2,45 @@
 
 ### Hi, I'm Leonardo Ferreira 👋
 
-Automation & Infrastructure Professional with a solid foundation in the physical world (Industrial Electronics) and in critical business operations (high-demand Retail ERP systems). My specialty is transforming operational bottlenecks and manual routines into efficient automated systems.
+Backend Developer with a solid foundation in the physical world (Industrial Electronics) and in critical business operations (high-demand Retail ERP systems), consolidating strong foundations in Object-Oriented Programming (OOP), Algorithms, and core software logic within the Java ecosystem.
 
-Focused on building automation scripts, structuring data extraction and cleaning pipelines (ETL), developing resilient APIs, and orchestrating integrations between legacy databases and Artificial Intelligence workflows.
+Currently working in IT Support at SKYMED, where I handle technical troubleshooting and log analysis, I leverage a solid background in infrastructure (Linux, Bash scripting) to build reliable software. Focused on writing clean, modular, and maintainable code following SOLID principles.
 
-Currently studying Systems Analysis and Development (Technologist and Technical degree) at SENAI. My daily practice is focused on systems architecture, data manipulation, and infrastructure stability.
+Currently studying Systems Analysis and Development (Technologist and Technical degree) at SENAI.
 
 ---
 
 ### 🛠️ Core Stack:
 
 **Backend:**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)
-![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 **Ops:**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Shell Scripting](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Shell Scripting](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<!--
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+-->
 
 **DB & Cloud:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<!--
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+-->
 
-**Data:**
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)
-![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)
-![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)
+**Testing:**
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-8CA462?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**QA:**
-![Pytest](https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000)
+**Tools & Workflow:**
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
