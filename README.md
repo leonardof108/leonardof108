@@ -36,7 +36,7 @@ Currently working in technical support at SKYMED, I handle complex system integr
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 ### 🚀 Current Focus
-*   Developing structured business applications (inventory, management systems) using **Next.js + NestJS + PostgreSQL**.
+*   Developing structured business applications using **Next.js + NestJS + PostgreSQL**.
 *   Implementing E2E and integration testing using **Playwright** and **Vitest**.
 *   Containerizing full-stack environments with **Docker** and **Docker Compose**.
 *   Continuing long-term fundamentals in Systems Analysis and Development at SENAI.
